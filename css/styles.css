@@ -10161,6 +10161,9 @@ form .row:first-child .floating-label-form-group {
 .pre-wrap {
   white-space: pre-wrap;
 }
+div p.pre-wrap{
+  text-align: center;
+}
 
 .icon-contact {
   display: flex;
